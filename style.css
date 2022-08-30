@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* .header{ */
+    
+/* } */
+
+.headnote{
+    height: 20px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    display: flex;
+    /* padding: 2rem; */
+    flex-direction: row;
+    align-items: center;
+
+}
